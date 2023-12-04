@@ -1,0 +1,74 @@
+[
+    {
+        "team": 1,
+        "team_name": "Red",
+        "color": "D13C3C",
+        "players": [
+            {
+                "name": "p1",
+                "score": "1"
+            },
+            {
+                "name": "p2",
+                "score": "4"
+            },
+            {
+                "name": "p3",
+                "score": "0"
+            }
+        ]
+    },
+    {
+        "team": 2,
+        "team_name": "Blue",
+        "color": "4861B7",
+        "players": [
+            {
+                "name": "p1",
+                "score": "2"
+            }
+        ]
+    },
+    {
+        "team": 3,
+        "team_name": "Green",
+        "color": "2E9939",
+        "players": [
+            {
+                "name": "p1",
+                "score": "3"
+            },
+            {
+                "name": "p2",
+                "score": "4"
+            }
+        ]
+    },
+    {
+        "team": 4,
+        "team_name": "Yellow",
+        "color": "AA962F",
+        "players": [
+            {
+                "name": "p1",
+                "score": "4"
+            },
+            {
+                "name": "p2",
+                "score": "4"
+            },
+            {
+                "name": "p3",
+                "score": "0"
+            },
+            {
+                "name": "p4",
+                "score": "0"
+            },
+            {
+                "name": "p5",
+                "score": "0"
+            }
+        ]
+    }
+]
